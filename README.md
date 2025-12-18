@@ -21,7 +21,7 @@ Three configuration parameters are provided:
 1. Period selection (choose one):
    1. Latest (daily)
    2. Specific period (between 2000-07-19 and today)
-2. Currency selecttion (multi-select dropdown):
+2. Currency selection (multi-select dropdown):
    1. Australian Dollar (AUD)
    2. Bulgarian Lev (BGN)
    3. Brazilian Real (BRL)
