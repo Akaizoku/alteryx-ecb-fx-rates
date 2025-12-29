@@ -11,7 +11,7 @@ $Author             = "Florian CARRIER"             # Author
 $Version            = "1.0.0"                       # Version number
 $CategoryName       = "Connectors"                  # Tool category
 $Description        = "This macro fetches euro foreign exchange references rates from the European Central Bank (ECB) for a specified period and list of currencies."
-$Icon               = ".\icon.png"                  # Package icon
+$Icon               = "icon.png"                    # Package icon
 $CompressionLevel   = "Optimal"                     # YXI compression level
 
 # ------------------------------------------------------------------------------
